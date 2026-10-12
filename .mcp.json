@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "budgets": {
+      "command": ".venv/bin/budgets-mcp",
+      "args": []
+    }
+  }
+}
