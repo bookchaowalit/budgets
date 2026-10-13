@@ -1,5 +1,4 @@
-# budgets
-
+# finance-budgets-api
 The Budgets cell: its own API (Railway, serverless) and its own Neon
 database, first generated from `cell.yaml` (one of the ten finance
 services split on 2026-10-12). It
@@ -8,8 +7,8 @@ HTTP with the caller's token.
 
 | | |
 |---|---|
-| API | Railway project `budgets`, service `budgets-api` (Serverless) |
-| Data | Neon project `budgets`, database `budgets` |
+| API | Railway project `finance-budgets-api`, service `budgets-api` (Serverless) |
+| Data | Neon project `finance-budgets-api`, database `budgets` |
 | Registry | solo-empire `repository-catalog/registries/online-systems.yaml` (`budgets`) |
 
 ## API
